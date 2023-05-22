@@ -54,3 +54,8 @@ hr {
     margin-right: auto;
     height: 400px; 
 }
+
+.linkedinLogo {
+    display: block;
+    height: 50px; 
+}
